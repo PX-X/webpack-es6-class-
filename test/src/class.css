@@ -1,0 +1,13 @@
+.box{
+    display: inline-block;
+    width: 100%;
+}
+body{
+    background-color: aquamarine;
+}
+/* p{
+    display: inline-block;
+} */
+.box div,.box>p{
+    display: inline-block;
+}

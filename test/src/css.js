@@ -1,0 +1,1 @@
+import css from './class.css';
